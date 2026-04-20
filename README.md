@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 My Product
 
 ### 🔹 PDF Merge Toolkit
 A high-performance PDF processing platform built with Spring Boot.
